@@ -1,0 +1,66 @@
+{
+  "gitSyncId": "6846adfb2480bf7e661edf45_76bca713-8496-48aa-a2e6-3be3bac2660d",
+  "id": "Page1_UserCard1",
+  "moduleUUID": "3c1c2602-f94a-40e9-ba4e-72166d505144",
+  "packageUUID": "b24f2a6e-ab36-4d92-8c52-15896f658793",
+  "type": "UI_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "country": "United States",
+      "date_of_birth": "10/10/1950",
+      "email": "john.doe@gmail.com",
+      "name": "John Doe",
+      "phone": "+1 678 2345678",
+      "photo": "https://mkorostoff.github.io/hundred-thousand-faces/img/m/1.jpg"
+    },
+    "moduleInputs": {
+      "eccsdaaebk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "john.doe@gmail.com",
+        "id": "eccsdaaebk",
+        "label": "email",
+        "propertyName": "inputs.email"
+      },
+      "hknrltdivj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "https://mkorostoff.github.io/hundred-thousand-faces/img/m/1.jpg",
+        "id": "hknrltdivj",
+        "label": "photo",
+        "propertyName": "inputs.photo"
+      },
+      "kbgxaljprj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "+1 678 2345678",
+        "id": "kbgxaljprj",
+        "label": "phone",
+        "propertyName": "inputs.phone"
+      },
+      "odubbdwlxf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "United States",
+        "id": "odubbdwlxf",
+        "label": "country",
+        "propertyName": "inputs.country"
+      },
+      "ullzxtxfhn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "10/10/1950",
+        "id": "ullzxtxfhn",
+        "label": "date_of_birth",
+        "propertyName": "inputs.date_of_birth"
+      },
+      "vphocyxpod": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "John Doe",
+        "id": "vphocyxpod",
+        "label": "name",
+        "propertyName": "inputs.name"
+      }
+    },
+    "name": "UserCard1",
+    "pageId": "Page1",
+    "version": "v0.2.1",
+    "widgetId": "dnogxhjqsx"
+  }
+}
